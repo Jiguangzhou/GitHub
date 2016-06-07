@@ -1,6 +1,6 @@
 github
 java
-﻿public viod Book(){
+﻿public viod Book{
 	System.out.println("书籍");
 }
  Hello,GitHub!
