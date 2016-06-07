@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 ﻿public viod Book(){
 	System.out.println("书籍");
 }
  Hello,GitHub!
+=======
+github
+java
+>>>>>>> c726bed7b6a91971cfb80cefcc9e2224df8269a2
